@@ -7,29 +7,25 @@
 /*
     Need to implement:
 DONE    rest
-		key
-		KEY_W
-		KEY_S
-		KEY_UP
-		KEY_DOWN
+	key
+	KEY_W
+	KEY_S
+	KEY_UP
+	KEY_DOWN
 DONE	clear_keybuf
 DONE	clear_to_color
-		font
+	font
 DONE	textout_ex
 DONE	acquire_screen
 DONE	makecol
 DONE    rectfill                                                                     ^
 DONE	circlefill
 DONE	screen
-		draw_sprite
+	draw_sprite
 DONE	release_screen
-		allegro_init
-		install_keyboard
-		set_color_depth
-		GFX_AUTODETECT_WINDOWED
-		set_gfx_mode
-		create_bitmap
-		KEY_ESC
+	install_keyboard
+	create_bitmap
+	KEY_ESC
 */
 
 //TYPEDEFS
