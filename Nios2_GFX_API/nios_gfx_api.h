@@ -45,22 +45,22 @@ typedef short Color;
 #define SCREEN_HEIGHT 240
 
 //FUNCTIONS
-inline void acquire_screen() {}
-inline void release_screen() {}
+#define acquire_screen()
+#define release_screen()
 
 void rectfill(void *ptr, int x1, int y1, int x2, int y2, Color color);
 
-inline void circlefill(void *ptr, int x, int y, int r, Color color){
-	rectfill(ptr,(x-r),(y-r),(x+r),(y+r),color);
-}
+#define circlefill(ptr, x, y, r, color) rectfill(ptr,(x-r),(y-r),(x+r),(y+r),color)
 
-Color makecol(short r, short g, short b);
+//0-4b 5-10g 11-15r
+#define makecol(r, g, b) ((unsigned short)((r&0xF8)<<8) | (unsigned short)((g&0xFC)<<3) | (unsigned short)((b&0xF8)>>3))
 
 void textout_ex(void *ptr, const char *text_ptr, int x, int y, Color fg, Color bg);
 
 void clear_keybuf();
 void readkey();
-void clear_to_color( void *ptr, Color c);
+
+#define clear_to_color(ptr,c) rectfill(ptr, 0, 0, SCREEN_WIDTH-1, SCREEN_HEIGHT-1, c)
 
 
 //TODO: Implement framework for reading the keys

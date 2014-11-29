@@ -26,10 +26,6 @@ void rectfill(void *ptr, int x1, int y1, int x2, int y2, Color color ) {
 	}
 }
 
-Color makecol(short r, short g, short b){
-    return 0;
-}
-
 void textout_ex(void *ptr, const char *text_ptr, int x, int y, Color fg, Color bg)
 {
 	int offset;
@@ -53,7 +49,3 @@ void clear_keybuf(){
 
 void readkey(){
 }
-
-void clear_to_color( void *ptr, Color c){
-}
-
