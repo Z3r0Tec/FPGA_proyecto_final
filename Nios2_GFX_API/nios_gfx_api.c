@@ -1,18 +1,21 @@
 #include "nios_gfx_api.h"
+#include "system.h"
+
+#define PIO_0_BASE 0x8b000
 
 //TODO: finish all missing functions
 
 void rectfill(void *ptr, int x1, int y1, int x2, int y2, Color color ) {
 	int offset, row, col;
   	volatile short *pixel_buffer = (short *)ptr; // (short *) 0x00000000;	// VGA pixel buffer
-	if(x1 < 0) x1 = 0;
+	/*if(x1 < 0) x1 = 0;
 	if(x1 > (SCREEN_WIDTH-1)) x1 = (SCREEN_WIDTH-1);
 	if(x2 < 0) x2 = 0;
 	if(x2 > (SCREEN_WIDTH-1)) x2 = (SCREEN_WIDTH-1);
 	if(y1 < 0) y1 = 0;
 	if(y1 > (SCREEN_HEIGHT-1)) y1 = (SCREEN_HEIGHT-1);
 	if(y2 < 0) y2 = 0;
-	if(y2 > (SCREEN_HEIGHT-1)) y2 = (SCREEN_HEIGHT-1);
+	if(y2 > (SCREEN_HEIGHT-1)) y2 = (SCREEN_HEIGHT-1);*/
 	/* assume that the box coordinates are valid */
 	for (row = y1; row <= y2; row++)
 	{
@@ -44,8 +47,57 @@ void textout_ex(void *ptr, const char *text_ptr, int x, int y, Color fg, Color b
 	}
 }
 
-void clear_keybuf(){
+/*
+void refresh_kb(){
+
+}*/
+
+int key(short index){
+	volatile short * pio_ptr = (short *) PIO_0_BASE;
+	return !((*pio_ptr)&index);
 }
 
-void readkey(){
+/*********************************
+ * Draw the field
+********************************/
+
+void draw_field(Color color){
+	//x1 y1 x2 y2
+	rectfill(screen, 0, 0, SCREEN_WIDTH-1, 20, color); //top
+	rectfill(screen, 0, 0, 5, SCREEN_HEIGHT-1, color); //Left
+	rectfill(screen, SCREEN_WIDTH-6, 0, SCREEN_WIDTH-1, SCREEN_HEIGHT-1, color); //Right
+	rectfill(screen, 0, SCREEN_HEIGHT-6, SCREEN_WIDTH-1, SCREEN_HEIGHT-1, color); //Bottom
+
+	//Mid field
+	//rectfill(screen, SCREEN_WIDTH/2-1, 0, SCREEN_WIDTH/2+1, SCREEN_HEIGHT-1, color); //Left
+}
+
+/* itoa:  convert n to characters in s */
+void itoa( int n, char s[])
+{
+	 int i, sign;
+
+	if ((sign = n) < 0)  /* record sign */
+		n = -n;          /* make n positive */
+	i = 0;
+	do {       /* generate digits in reverse order */
+		s[i++] = n % 10 + '0';   /* get next digit */
+	} while ((n /= 10) > 0);     /* delete it */
+	if (sign < 0)
+		s[i++] = '-';
+	s[i] = '\0';
+	reverse(s);
+}
+
+/* reverse:  reverse string s in place */
+void reverse(char s[])
+{
+	int i, j;
+	char c;
+
+	for (i = 0, j = strlen(s)-1; i<j; i++, j--) {
+		c = s[i];
+		s[i] = s[j];
+		s[j] = c;
+	}
 }
