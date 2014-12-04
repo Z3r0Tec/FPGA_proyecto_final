@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Example_3_Both_Buffers">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Dual_Clock_FIFO:dual_clock_fifo|dcfifo:Data_FIFO" CBX_FILE_NAME="dcfifo_5oj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Pixel_Scaler:pixel_scaler|altera_up_video_scaler_multiply_height:Multiply_Height|scfifo:Multiply_Height_FIFO" CBX_FILE_NAME="scfifo_qd31.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_CPU:cpu|Video_System_CPU_nios2_oci:the_Video_System_CPU_nios2_oci|Video_System_CPU_nios2_ocimem:the_Video_System_CPU_nios2_ocimem|Video_System_CPU_ociram_sp_ram_module:Video_System_CPU_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_ev71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_CPU:cpu|Video_System_CPU_register_bank_a_module:Video_System_CPU_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_aig1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_CPU:cpu|Video_System_CPU_register_bank_b_module:Video_System_CPU_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_big1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Char_Buffer_with_DMA:char_buffer_with_dma|altera_up_video_128_character_rom:Character_Rom|altsyncram:character_data_rom" CBX_FILE_NAME="altsyncram_e5i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Char_Buffer_with_DMA:char_buffer_with_dma|altsyncram:Char_Buffer_Memory" CBX_FILE_NAME="altsyncram_4272.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Onchip_Memory:onchip_memory|altsyncram:the_altsyncram|altsyncram_i9d1:auto_generated|altsyncram:ram_block1a0" CBX_FILE_NAME="altsyncram_tg23.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Onchip_Memory:onchip_memory|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_i9d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_Pixel_Buffer_DMA:pixel_buffer_dma|scfifo:Image_Buffer" CBX_FILE_NAME="scfifo_70a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Example_3_Both_Buffers|Video_System:Char_Buffer_System|Video_System_ps2_0:ps2_0|scfifo:Incoming_Data_FIFO" CBX_FILE_NAME="scfifo_tr31.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

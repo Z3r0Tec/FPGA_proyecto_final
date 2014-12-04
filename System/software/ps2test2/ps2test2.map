@@ -1,0 +1,835 @@
+Archive member included because of file (symbol)
+
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              obj/default/nios_gfx_api.o (__divsi3)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              obj/default/main.o (memcpy)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              obj/default/nios_gfx_api.o (strlen)
+../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+                              ../ps2test2_bsp//obj/HAL/src/crt0.o (alt_load)
+../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+                              ../ps2test2_bsp//obj/HAL/src/crt0.o (alt_main)
+../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_up_ps2_init)
+../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_up_char_buffer_init)
+../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_main.o) (close)
+../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_close.o) (alt_errno)
+../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o) (alt_find_dev)
+../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_close.o) (errno)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o) (strcmp)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o) (_global_impure_ptr)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              ../ps2test2_bsp/\libhal_bsp.a(alt_close.o) (__mulsi3)
+../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+p1_up               0x1               obj/default/nios_gfx_api.o
+p1_down             0x1               obj/default/nios_gfx_api.o
+p2_down             0x1               obj/default/nios_gfx_api.o
+p1_moved            0x1               obj/default/main.o
+p2_up               0x1               obj/default/nios_gfx_api.o
+dir                 0x4               obj/default/main.o
+p2_moved            0x1               obj/default/main.o
+player1Score        0x4               obj/default/main.o
+player2Score        0x4               obj/default/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x00084000         0x00000020
+Onchip_Memory    0x00084020         0x000030b4
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../ps2test2_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD obj/default/nios_gfx_api.o
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD ../ps2test2_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+                0x00084000                __alt_mem_Onchip_Memory = 0x84000
+
+.entry          0x00084000       0x20
+ *(.entry)
+ .entry         0x00084000       0x20 ../ps2test2_bsp//obj/HAL/src/crt0.o
+                0x00084000                __reset
+
+.exceptions     0x00084020        0x0
+                0x00084020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x00084020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x00084020                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x00084020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00084020     0x2794
+                0x00084020                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00084020       0x3c ../ps2test2_bsp//obj/HAL/src/crt0.o
+                0x00084020                _start
+ .text          0x0008405c      0x994 obj/default/main.o
+                0x0008405c                moveBall
+                0x00084328                p1Move
+                0x00084444                p2Move
+                0x00084560                startNew
+                0x0008463c                checkWin
+                0x0008472c                setupGame
+                0x00084818                drawScore
+                0x0008495c                main
+ .text          0x000849f0      0x6b0 obj/default/nios_gfx_api.o
+                0x000849f0                readkey
+                0x00084a20                rectfill
+                0x00084ad4                textout_ex
+                0x00084bdc                clear_keybuf
+                0x00084c08                refresh_kb
+                0x00084dbc                key
+                0x00084e3c                draw_field
+                0x00084ef4                itoa
+                0x00084fe4                reverse
+ .text          0x000850a0      0x14c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x0008511c                __divsi3
+                0x0008517c                __modsi3
+                0x000851dc                __udivsi3
+                0x000851e4                __umodsi3
+ .text          0x000851ec       0x2c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x000851ec                memcpy
+ .text          0x00085218       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x00085218                strlen
+ .text          0x00085238       0xec ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+                0x00085238                alt_load
+ .text          0x00085324       0x40 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+                0x00085324                alt_main
+ .text          0x00085364      0x35c ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x00085364                alt_irq_init
+                0x00085398                alt_sys_init
+ .text          0x000856c0      0x700 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+                0x000856c0                read_RI_bit
+                0x000856f4                read_RE_bit
+                0x00085724                read_CE_bit
+                0x00085758                read_num_bytes_available
+                0x0008578c                read_data_valid
+                0x000857c0                read_data_byte
+                0x000857ec                alt_up_ps2_init
+                0x000858b8                alt_up_ps2_enable_read_interrupt
+                0x0008590c                alt_up_ps2_disable_read_interrupt
+                0x00085964                alt_up_ps2_write_data_byte
+                0x000859dc                alt_up_ps2_wait_for_ack
+                0x00085a4c                alt_up_ps2_write_data_byte_with_ack
+                0x00085ab8                alt_up_ps2_read_data_byte_timeout
+                0x00085b68                alt_up_ps2_read_data_byte
+                0x00085be4                alt_up_ps2_clear_fifo
+                0x00085c3c                alt_up_ps2_read_fd
+                0x00085cd8                alt_up_ps2_write_fd
+                0x00085d80                alt_up_ps2_open_dev
+ .text          0x00085dc0      0x304 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+                0x00085dc0                alt_up_char_buffer_init
+                0x00085e44                alt_up_char_buffer_open_dev
+                0x00085e84                alt_up_char_buffer_draw
+                0x00085f54                alt_up_char_buffer_string
+                0x00086068                alt_up_char_buffer_clear
+ .text          0x000860c4      0x160 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+                0x000860c4                close
+ .text          0x00086224       0x1c ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x00086224                alt_dcache_flush_all
+ .text          0x00086240       0x2c ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x0008626c      0x114 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0008626c                alt_dev_llist_insert
+ .text          0x00086380        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x00086380       0x94 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x00086380                alt_find_dev
+ .text          0x00086414       0x1c ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x00086414                alt_icache_flush_all
+ .text          0x00086430       0x78 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x00086430                alt_release_fd
+ .text          0x000864a8       0x20 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x000864a8                altera_nios2_qsys_irq_init
+ .text          0x000864c8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                0x000864c8                exit
+ .text          0x000864e8        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x000864e8       0x3c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x000864e8                memcmp
+ .text          0x00086524       0x34 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+                0x00086524                strcmp
+ .text          0x00086558      0x1c0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                0x0008655c                __call_exitprocs
+ .text          0x00086718        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .text          0x00086718       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x00086718                __mulsi3
+ .text          0x00086750       0x60 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+                0x00086790                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x000867b0                PROVIDE (__etext, ABSOLUTE (.))
+                0x000867b0                PROVIDE (_etext, ABSOLUTE (.))
+                0x000867b0                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x000867b0                . = ALIGN (0x4)
+                0x000867b0                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x000867b0                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x000867b0                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x000867b0                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x000867b0                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x000867b0                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table)
+ *(.dynamic)
+                0x000867b0                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x000867b0        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                0x000867b4                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x000867b4                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x000867b4                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x000867b4                . = ALIGN (0x4)
+
+.rodata         0x000867b4       0xd4
+                0x000867b4                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x000867b4                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000867b4       0x54 obj/default/main.o
+ .rodata        0x00086808       0x58 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x00086860       0x1c ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .rodata        0x0008687c        0xc ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ *(.rodata1)
+                0x00086888                . = ALIGN (0x4)
+                0x00086888                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x000867b4                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00086888      0x3b0 load address 0x00086c38
+                0x00086888                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00086888                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00086888        0x0 ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .data          0x00086888        0x0 obj/default/main.o
+ .data          0x00086888        0x0 obj/default/nios_gfx_api.o
+ .data          0x00086888        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x00086888        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .data          0x00086888        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x00086888        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x00086888        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x00086888       0xd4 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0008695c        0x0 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .data          0x0008695c        0x0 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .data          0x0008695c        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x0008695c        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0008695c      0x1a8 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0008695c                alt_dev_null
+                0x00086984                alt_fd_list
+ .data          0x00086b04        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x00086b04        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x00086b04        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x00086b04        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x00086b04        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x00086b04        0x0 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x00086b04        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .data          0x00086b04        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x00086b04        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .data          0x00086b04        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .data          0x00086b04        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .data          0x00086b04       0xe0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data          0x00086be4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x00086be4        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0008ebe4                _gp = ABSOLUTE ((. + 0x8000))
+                0x0008ebe4                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x00086be4       0x34 obj/default/main.o
+                0x00086be4                ball_x
+                0x00086be8                ball_y
+                0x00086bec                ball_tempX
+                0x00086bf0                ball_tempY
+                0x00086bf4                p1_x
+                0x00086bf8                p1_y
+                0x00086bfc                p1_tempX
+                0x00086c00                p1_tempY
+                0x00086c04                p2_x
+                0x00086c08                p2_y
+                0x00086c0c                p2_tempX
+                0x00086c10                p2_tempY
+                0x00086c14                max_delay
+ .sdata         0x00086c18       0x14 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00086c18                alt_fs_list
+                0x00086c20                alt_dev_list
+                0x00086c28                alt_max_fd
+ .sdata         0x00086c2c        0x4 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+                0x00086c2c                alt_errno
+ .sdata         0x00086c30        0x8 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x00086c30                _impure_ptr
+                0x00086c34                _global_impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x00086c38                . = ALIGN (0x4)
+                0x00086c38                _edata = ABSOLUTE (.)
+                0x00086c38                PROVIDE (edata, ABSOLUTE (.))
+                0x00086c38                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x00086c38                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x00086fe8       0x50
+                0x00086fe8                __bss_start = ABSOLUTE (.)
+                0x00086fe8                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x00086fe8                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x00086fe8        0x8 obj/default/main.o
+                0x00086fe8                delay
+                0x00086fec                buffer
+ .sbss          0x00086ff0       0x14 obj/default/main.o
+                0x00086ff0                p1_moved
+                0x00086ff4                dir
+                0x00086ff8                p2_moved
+                0x00086ffc                player1Score
+                0x00087000                player2Score
+ .sbss          0x00087004        0x6 obj/default/nios_gfx_api.o
+                0x00087006                p1_up
+                0x00087007                p1_down
+                0x00087008                p2_down
+                0x00087009                p2_up
+ *fill*         0x0008700a        0x2 00
+ .sbss          0x0008700c        0xc ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+                0x0008700c                alt_argc
+                0x00087010                alt_argv
+                0x00087014                alt_envp
+ .sbss          0x00087018        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x00087018                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x0008701c                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x0008701c                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0008701c        0x0 ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .bss           0x0008701c       0x19 obj/default/main.o
+ .bss           0x00087035        0x0 obj/default/nios_gfx_api.o
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .bss           0x00087035        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x00087035        0x0 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+                0x00087038                . = ALIGN (0x4)
+ *fill*         0x00087035        0x3 00
+                0x00087038                __bss_end = ABSOLUTE (.)
+
+.Onchip_Memory  0x00087038        0x0
+                0x00087038                PROVIDE (_alt_partition_Onchip_Memory_start, ABSOLUTE (.))
+ *(.Onchip_Memory. Onchip_Memory.*)
+                0x00087038                . = ALIGN (0x4)
+                0x00087038                PROVIDE (_alt_partition_Onchip_Memory_end, ABSOLUTE (.))
+                0x00087038                _end = ABSOLUTE (.)
+                0x00087038                end = ABSOLUTE (.)
+                0x00087038                __alt_stack_base = ABSOLUTE (.)
+                0x00087038                PROVIDE (_alt_partition_Onchip_Memory_load_addr, LOADADDR (.Onchip_Memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x26
+ *(.comment)
+ .comment       0x00000000       0x26 obj/default/main.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000000       0x27 obj/default/nios_gfx_api.o
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x00000000       0x27 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x328
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000028       0x20 obj/default/main.o
+ .debug_aranges
+                0x00000048       0x20 obj/default/nios_gfx_api.o
+ .debug_aranges
+                0x00000068       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000088       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x000000a8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000000c8       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x000000e8       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000108       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000128       0x20 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_aranges
+                0x00000148       0x20 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_aranges
+                0x00000168       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000188       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x000001a8       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x000001c8       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x000001e8       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000208       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000228       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000248       0x20 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x00000268       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000288       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x000002a8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x000002c8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x000002e8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x00000308       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+                0x00000000      0x86b
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x167 obj/default/main.o
+ .debug_pubnames
+                0x00000167       0xb2 obj/default/nios_gfx_api.o
+ .debug_pubnames
+                0x00000219       0x48 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_pubnames
+                0x00000261       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_pubnames
+                0x0000027e       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_pubnames
+                0x0000029b       0x1f ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_pubnames
+                0x000002ba       0x46 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_pubnames
+                0x00000300       0x34 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_pubnames
+                0x00000334      0x1ed ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_pubnames
+                0x00000521       0xa5 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_pubnames
+                0x000005c6       0x1c ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_pubnames
+                0x000005e2       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_pubnames
+                0x0000060d       0x63 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_pubnames
+                0x00000670       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_pubnames
+                0x0000069b       0x20 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_pubnames
+                0x000006bb       0x23 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_pubnames
+                0x000006de       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_pubnames
+                0x00000709       0x25 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_pubnames
+                0x0000072e       0x31 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_pubnames
+                0x0000075f       0x1b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_pubnames
+                0x0000077a       0x1c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_pubnames
+                0x00000796       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_pubnames
+                0x000007b3       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .debug_pubnames
+                0x000007d0       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_pubnames
+                0x000007f7       0x39 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_pubnames
+                0x00000830       0x1f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_pubnames
+                0x0000084f       0x1c ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_info     0x00000000     0x579b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x6b ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000006b      0x42b obj/default/main.o
+ .debug_info    0x00000496      0x449 obj/default/nios_gfx_api.o
+ .debug_info    0x000008df      0x21c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x00000afb       0xc2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x00000bbd       0xc2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x00000c7f      0x27d ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000efc      0x25c ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x00001158      0x772 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x000018ca      0xadd ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_info    0x000023a7      0x682 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_info    0x00002a29      0x457 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00002e80      0x14c ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x00002fcc      0x66f ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x0000363b      0x2a7 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x000038e2      0x154 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00003a36      0x408 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x00003e3e      0x14c ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x00003f8a      0x3e2 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000436c      0x19a ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x00004506       0x9f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_info    0x000045a5       0x8c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x00004631       0xef c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x00004720       0xb5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .debug_info    0x000047d5      0x6d5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00004eaa      0x636 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x000054e0       0xf3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x000055d3      0x1c8 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x13e0
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x12 ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000012       0xcf obj/default/main.o
+ .debug_abbrev  0x000000e1       0xe8 obj/default/nios_gfx_api.o
+ .debug_abbrev  0x000001c9       0xe0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x000002a9       0x9d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000346       0x7a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000003c0       0x88 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x00000448       0xbe ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000506      0x156 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000065c      0x16d ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_abbrev  0x000007c9      0x111 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_abbrev  0x000008da       0xfb ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x000009d5       0x3f ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x00000a14       0xc7 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00000adb       0xf6 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x00000bd1       0x5e ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000c2f       0xcf ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00000cfe       0x3f ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000d3d       0xc1 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00000dfe       0x64 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x00000e62       0x4e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_abbrev  0x00000eb0       0x3b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00000eeb       0x7c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00000f67       0x60 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x00000fc7      0x1c6 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000118d      0x13f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x000012cc       0x7b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x00001347       0x99 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x4327
+ *(.debug_line)
+ .debug_line    0x00000000       0x66 ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000066      0x48f obj/default/main.o
+ .debug_line    0x000004f5      0x3c3 obj/default/nios_gfx_api.o
+ .debug_line    0x000008b8      0x24f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x00000b07      0x145 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x00000c4c      0x250 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x00000e9c      0x217 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x000010b3      0x2c6 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00001379      0x2ec ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00001665      0x5f5 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_line    0x00001c5a      0x395 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_line    0x00001fef      0x299 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x00002288      0x1b5 ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000243d      0x254 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00002691      0x25a ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x000028eb      0x1aa ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00002a95      0x26b ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x00002d00      0x1b5 ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x00002eb5       0xed ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x00002fa2      0x1e7 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x00003189      0x223 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_line    0x000033ac      0x1e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x0000358e      0x270 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x000037fe      0x260 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .debug_line    0x00003a5e      0x360 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_line    0x00003dbe      0x230 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x00003fee      0x11a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x00004108      0x21f ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0x8e8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xf0 obj/default/main.o
+ .debug_frame   0x000000f0      0x110 obj/default/nios_gfx_api.o
+ .debug_frame   0x00000200       0x70 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x00000270       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000290       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x000002b0       0x48 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x000002f8       0x2c ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000324       0x64 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000388      0x208 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_frame   0x00000590       0x9c ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_frame   0x0000062c       0x48 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000674       0x2c ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x000006a0       0x2c ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000006cc       0x48 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000714       0x2c ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000740       0x2c ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000076c       0x30 ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000079c       0x2c ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x000007c8       0x2c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_frame   0x000007f4       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000814       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000834       0x4c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000880       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x000008a0       0x48 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000      0xa94
+ *(.debug_str)
+ .debug_str     0x00000000      0x167 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                0x1b4 (size before relaxing)
+ .debug_str     0x00000167       0xfd c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                0x129 (size before relaxing)
+ .debug_str     0x00000264       0x45 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                0x184 (size before relaxing)
+ .debug_str     0x000002a9       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_str     0x000002bb       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_str     0x000002cd       0xa6 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_str     0x00000373       0x3a ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_str     0x000003ad       0x35 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_str     0x000003e2       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_str     0x000003f4       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_str     0x00000406       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_str     0x00000418       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_str     0x0000042a       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_str     0x0000043c       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_str     0x0000044e       0x12 ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_str     0x00000460       0x12 ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_str     0x00000472       0xde c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                                0x178 (size before relaxing)
+ .debug_str     0x00000550       0xdc c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x0000062c       0x45 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                                0x17e (size before relaxing)
+ .debug_str     0x00000671       0x45 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strcmp.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000006b6      0x342 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                                0x491 (size before relaxing)
+ .debug_str     0x000009f8       0x49 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                                0x45d (size before relaxing)
+ .debug_str     0x00000a41       0x37 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                0x175 (size before relaxing)
+ .debug_str     0x00000a78       0x1c ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_loc      0x00000000      0xe8a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x159 obj/default/main.o
+ .debug_loc     0x00000159      0x183 obj/default/nios_gfx_api.o
+ .debug_loc     0x000002dc      0x1d2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x000004ae       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x000004cc       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x000004ea       0x56 ../ps2test2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_loc     0x00000540       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_loc     0x0000056b       0x81 ../ps2test2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x000005ec      0x306 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_ps2.o)
+ .debug_loc     0x000008f2       0xd7 ../ps2test2_bsp/\libhal_bsp.a(altera_up_avalon_video_character_buffer_with_dma.o)
+ .debug_loc     0x000009c9       0x56 ../ps2test2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_loc     0x00000a1f       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_loc     0x00000a4a       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_loc     0x00000a75       0x56 ../ps2test2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x00000acb       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x00000af6       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_loc     0x00000b21       0x2b ../ps2test2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_loc     0x00000b4c       0x2b ../ps2test2_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x00000b77       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_loc     0x00000bb4       0x70 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_loc     0x00000c24      0x1c1 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000de5       0x4f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x00000e34       0x56 ../ps2test2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x10 ../ps2test2_bsp//obj/HAL/src/crt0.o
+                0x000870d4                __alt_data_end = 0x870d4
+                0x000870d4                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x00087038                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x00087038                PROVIDE (__alt_heap_start, end)
+                0x000870d4                PROVIDE (__alt_heap_limit, 0x870d4)
+OUTPUT(ps2test2.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000       0x38
+ .debug_ranges  0x00000000       0x20 ../ps2test2_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x00000020       0x18 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
